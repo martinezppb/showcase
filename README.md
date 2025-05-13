@@ -1,0 +1,1 @@
+A collection of small projects, skill demos, and personal achievements. This repo highlights my hands-on experience, creativity, and technical proficiency — from typing speed benchmarks to mini builds that reflect my growth as a developer.
